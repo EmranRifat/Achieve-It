@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "name": "Web Development",
+    "description": "Our expert web development team crafts tailored websites that align with your business objectives. We combine aesthetics with functionality, utilizing the latest technologies to create responsive and engaging web experiences. From e-commerce platforms to corporate websites, we ensure a seamless user journey and a strong online presence.",
+    "image": "https://i.ibb.co/2NDYSRY/app-development-1.png",
+    "Feature": [
+      "Front-End Development",
+      "Backend(Server-site) Development",
+      " full-Stack Development",
+      "Database Development"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "App Development",
+    "description": "Transform your ideas into cutting-edge mobile and web applications with our app development services. We specialize in user-centered design, intuitive navigation, and optimized performance. Whether it's a consumer-facing app or a business tool, we deliver solutions that elevate user engagement and streamline processes.",
+    "image": "https://i.ibb.co/vjdGPss/app-development.png",
+    "Feature":["Native apps","Web apps","Hybrid apps"]
+
+  },
+  {
+    "id": "3",
+    "name": "Digital Marketing",
+    "description": "Our data-driven digital marketing strategies power your online success. We optimize your web presence through SEO, target audiences with precise SEM campaigns, and engage users on social media platforms. From content creation to lead conversion, we help you connect with your target market and achieve measurable results.",
+    "image": "https://i.ibb.co/LYrfQHr/digital-marketing.png",
+    "Feature":["Goolge Ads Marketing","Social Media Markting"," SEO Support "]
+
+  },
+
+  {
+    "id": "4",
+    "name": "Software Development",
+    "description": "Rely on our comprehensive IT services to ensure your technology infrastructure runs flawlessly. From network setup and cybersecurity to cloud solutions and IT consulting, we keep your business connected, secure, and efficient. Our experienced team addresses tech challenges, so you can focus on driving innovation and growth.",
+    "image": "https://i.ibb.co/2YSw4zk/web-development.png",
+    "Feature": [
+      "Front-End Development",
+      "Backend(Server-site) Development",
+      " full-Stack Development",
+      "Database Development"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "UI/UX Design",
+    "description": "Elevate user satisfaction with our UI/UX design services. Our creative team focuses on creating intuitive and visually appealing interfaces. We meticulously craft each element to ensure seamless navigation and delightful interactions, resulting in products that engage users and enhance brand loyalty.",
+    "image": "https://i.ibb.co/pRsBsp8/ux-design.png",
+    "Feature": [
+      "interaction design",
+      "visual design",
+      "  information architecture "
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Graphics Design",
+    "description": "Stand out in a crowded market with our captivating graphic design services. From eye-catching logos to stunning marketing materials, our designs capture your brand's essence. We blend creativity with strategic thinking to create visuals that leave a lasting impression and reinforce your brand's identity.",
+    "image": "https://i.ibb.co/cYswSk9/illustration.png",
+    "Feature": [
+      "Motion graphic design",
+      "Environmental graphic design",
+      " Visual identity graphic design ",
+      "Logo & banner Design"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Office Management Software",
+    "description": "Customer Relationship Management (CRM) software system that focuses on total customer interactions by automating marketing, sales & accounting system. The scope of this software also covers digital marketing automation, managing employee to customer relationship, employee performance analysis, website content management system etc. A CRM system can also become a powerful tool for deep business analysis to make confident decisions making in complex business systems. The software is also capable to provide personalized business data to provide services/products that customers demand most, make better customer service, help sales teams to cross-sell and up-sell more effectively, close deals, retain current customers and to better understand exactly who the customers are etc. So, if you are looking for a fully customized/ personalized CRM software with lifetime license, Extreme CRM is one of the best options for you . ",
+    "image": "https://i.ibb.co/ByWpqkw/Screenshot-2023-10-17-122228-removebg-preview.png",
+    "Feature": [
+      "Collaboration tools",
+      "Reporting and analytics",
+      " Inventory management ",
+      "Security and Compliance",
+      "Budget management"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Industrial Software Solution",
+    "description": "Achieve It ltd has the competency and clear focus to bring a free data flow from the production to the boardroom and between the applications. Our industrial software solutions are based on decades of experience gained in providing challenging process automation, information management systems and services to process industries, utilities and manufacturers worldwide. New digital tools are being developed at a much faster pace than ever before, in collaboration with ecosystem players.",
+    "image": "https://i.ibb.co/LZFn7t5/Screenshot-2023-10-17-121610-removebg-preview.png",
+    "Feature": [
+      " Usability and Interface: ISS should offer an intuitive and user-friendly interface for easy adoption by industrial  professionals",
+      " Integration Capabilities : It must seamlessly integrate with existing industrial systems and equipment, promoting interoperability and data sharing.",
+      " Robust Reporting and Analytics : ISS should provide comprehensive data analysis and reporting tools, enabling data-driven decision-making in the industrial setting.",
+      "Security and Compliance: Ensure ISS prioritizes industrial-grade security measures and complies with relevant industry regulations to protect sensitive data.",
+      "Cloud-based Technology: Leveraging cloud-based technology allows for scalability, real-time updates, and remote access, enhancing the flexibility and efficiency of industrial operations."
+    ]
+  }
+]
